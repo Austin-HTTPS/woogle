@@ -1,0 +1,88 @@
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.wrapper{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: auto;
+	height: auto;
+	padding: 10px;
+}
+.wrapper > .error{
+	font-weight: 400;
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+}
+.wrapper > a img{
+	height: 130px;
+	width: auto;
+	max-width: 35vw;
+	object-fit: contain;
+	margin-bottom: 20px;
+	/* pointer-events: none; */
+	user-select: none;
+	cursor: pointer;
+}
+.wrapper > a{
+	text-decoration: none;
+}
+.wrapper > .options{
+	margin-top: 30px;
+	user-select: none;
+}
+.wrapper > .options button{
+	border-radius: 4px;
+	outline: none;
+	color: #949494;
+	background-color: #F2F2F2;
+	border: 1px solid #FBFBFB;
+	font-size: 16px;
+	padding: 10px;
+	cursor: pointer;
+}
+.wrapper > .options button:first-child{
+	margin-right: 3px;
+}
+.wrapper > .options button:last-child{
+	margin-left: 3px;
+}
+.wrapper > .options button:hover{
+	background-color: #F2F2F2;
+	border: 1px solid #D7D7D7;
+	color: rgb(32, 32, 32);
+}
+
+.wrapper > .input{
+	display: flex;
+	justify-content: space-between;
+	/* height: 30px; */
+	width: 35vw;
+	border-radius: 50px;
+	border: 1px solid 	#E2E2E2;
+	outline: none;
+	padding: 13px 17px;
+}
+.wrapper > .input:hover{
+	box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+.wrapper > .input > *{
+	font-size: 18px;
+}
+.wrapper > .input > i {
+	transform: translateY(2px);
+	cursor: pointer;
+	color: #999A9D;
+}
+.wrapper > .input > input{
+	width: 100%;
+	height: 100%;
+	padding: 0 10px;
+	margin: 0;
+	border: none;
+	outline: none;
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<%- include('../partials/meta'); -%>
+	<link rel="stylesheet" href="/styles/search.css" />
+	<script src="/scripts/search.js" defer></script>
+</head>
+<body>
+	<div id="topBar">
+		<header>
+			<a href="/"><img src="/images/main.png" /></a>
+			<div class="input">
+				<input value="<%= query%>" autocomplete="off" />
+				<i class="fa fa-search"></i>
+			</div>
+		</header>
+		<nav>
+			<a href="/search?query=<%= query%>&type=all" class="active">All</a>
+			<a href="/search?query=<%= query%>&type=images" class="secondary">Images</a>
+		</nav>
+	</div>
+	<main class="main">
+		<span class="results">About <%= count%> results</span>
+		<% if(locals.definition){%>
+		<div class="result definition">
+			<h1><%= query%></h1>
+			<span><%= definition.category%></span>
+			<p><%= definition.definition%></p>
+		</div>
+		<%}%>
+		<% if(locals.results){
+			for(let key in results){
+				let link = results[key],
+					origin = new URL(key),
+
+					fp = origin.host,
+					sp = origin.pathname.toString().split('/')
+					
+				sp = sp.filter((value, index, array) => {
+					return (value.length < 15);
+				}).join(' > ')
+
+				let path = fp + sp
+
+				if(path[path.length - 2] == '>'){
+					path = path.substring(0, path.length-3);
+				}
+				let preview = link.description
+				if (preview.length > 220) {
+					preview = preview.substring(0, 219) + "...";
+				}
+			%>
+				<div class="result">
+					<div class="preview"><%= path %> <div class="arrow-down"></div></div>
+					<a href="<%= key%>"><%- link.title || key%></a>
+					<div class="preview"><%= preview%></div>
+				</div>
+			<%}
+		}%>
+		<% if(!locals.results && !locals.definition){%>
+			<div class="result">
+				<div class="preview">
+					No results were found :(
+				</div>
+			</div>
+		<%}%>
+		<!--<div class="result">
+			<div class="preview">sdfsdf <div class="arrow-down"></div></div>
+			<a href="$">sdfsd</a>
+			<div class="preview">asdfas description</div>
+		</div>-->
+	</main>
+	<footer>
+	</footer>
+</body>

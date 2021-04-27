@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<%- include('../partials/meta'); -%>
+	<link rel="stylesheet" href="/styles/search.css" />
+	<link rel="stylesheet" href="/styles/mason.css" />
+	<script src="/scripts/search.js" defer></script>
+</head>
+<body>
+	<div id="topBar">
+		<header>
+			<a href="/"><img src="/images/main.png" /></a>
+			<div class="input">
+				<input value="<%= query%>" autocomplete="off" />
+				<i class="fa fa-search"></i>
+			</div>
+		</header>
+		<nav>
+			<a href="/search?query=<%= query%>&type=all" class="secondary">All</a>
+			<a href="/search?query=<%= query%>&type=images" class="active">Images</a>
+		</nav>
+	</div>
+	<main>
+		<% if(!locals.results){ %>
+			<div style="padding: 1em 8em;" class="result">
+				<div class="preview">
+					No results were found :(
+				</div>
+			</div>
+		<%}%>
+		<div id="mason" >
+			<% if(locals.results){
+					for(let image of results){ %>
+						<img onerror="this.style.display='none'" class="sub" alt="<%= image%>" title="<%= image%>" src="<%= image%>" />
+			<%  	}
+				} %>
+		</div>
+	</main>
+	<footer>
+	</footer>
+</body>

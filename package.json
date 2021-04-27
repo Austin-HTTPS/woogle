@@ -1,0 +1,27 @@
+{
+  "name": "SearchEngine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^1.5.2",
+    "@tensorflow/tfjs-node": "^1.5.2",
+    "cheerio": "^1.0.0-rc.3",
+    "crawler": "^1.2.1",
+    "define-word": "^1.0.5",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "img-crawler": "0.0.2",
+    "request": "^2.88.2",
+    "rimraf": "^3.0.2",
+    "url-metadata": "^2.4.0",
+    "word-definition": "^2.1.6"
+  }
+}

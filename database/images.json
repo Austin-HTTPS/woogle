@@ -1,0 +1,1262 @@
+{
+    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=": {
+        "source": "https://bing.com"
+    },
+    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV4AAADgCAMAAAB8Qv6ZAAAC8VBMVEUAAAC9vb29vb3T4doBAQH////////0+fj////////////+/v7+/v7////z8/Xs7e9GRkba6ecYGBj////+/v77uQY+Pj7///8eHh7///////+Li4v+/v5UVFSQkJAJCQn////+/v79/f37+/v////////////9/f0GBgb9uw37vBf3vij////+/v7////rxV7////5vSAVFRUhISH7+/vnx3H9/f1fX1/8uxH///////8zMzO5uLgTExP////4vSP0vzZBQUE+Pj42jMwNDQ0aGhofgMj///80NDTsxF/txE4Idse9vb36vRn4vicyMjLwwkrxwUX4uyb////2vizDwL1NTU07i8j2vi4qKip+fn5ISEhghawJCQkJCQn///+9vb3kw2I9kMsRERH+ugkqhslFRUXoxm3fzJVSboq9vb29vb3+ugnxwUIwMDC9vb29vb3/uQCqqqpbW1sMd8cLd8ZOipR7e3vQ0NAAAAD///+9vb3/uQAAcsYtLS26urrCwsIAccoGBgYAacfSxbxom8EAcMZ2dnYDAwP9/f2AugDc3NwKCgr5+fm3t7fm5uYAb83/uwDw8PAAbcWsrKxSUlIQEBD+ugcAb9KmpqZMTEwUFBTV1dWWlpZqampZWVkZGRkAbNaCgoJfX182NjbKysqcnJyHh4cpKSl8fHwfHx+EvQDr6+v29/fFxcUlJSWxsbFERET/vwDg4OAAbdsPd7aioqJoZ2fOzs7Bv746Ojr09PQMd8cJc8Ajho+LwQDZ2dkAc81IhpCLi4tubm7dWQDQ0NA7k2vGwb28vLxrrx90tBHpWADwVwAWb7MSfaq1pTmyXifishbfWQBdpdsYf8yZr7/LwrxiZGfHqizMzMxRk8NgjXymoEbc7Pekzet6o8CwuL4xf6EvbZtOaYEwjntxkW98lWaJmFtJnFOZnU9QoEqUYUHiWADR5vXE3vKJvuVCmF6OYkZUokFgqS652PCy1e9onMGAZFTVWRB7twdi+btWAAAAeXRSTlMAJDMFld36CLjY8Twz9hYRbQzMwUb8/qennoYhakb+85BWLBviyWIl+PPRsXdxXDnsxcOWUCMgDOiufm8r39KQhVAo/cy6p5VcUhXu7eKjhHRPDOdycWhlW0A4HBfo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": {
+        "source": "https://bing.com"
+    },
+    "https://www.gravatar.com/avatar/58f9884421d1af250a816ac3eaaa5a13?s=32&d=identicon&r=PG": {
+        "source": "https://stackoverflow.com"
+    },
+    "https://i.stack.imgur.com/XHFt6.jpg?s=32&g=1": {
+        "source": "https://stackoverflow.com"
+    },
+    "https://i.stack.imgur.com/dk8d2.gif": {
+        "source": "https://stackoverflow.com"
+    },
+    "https://www.gravatar.com/avatar/460e624356e6cd7f0ab06a8de2bceb56?s=32&d=identicon&r=PG&f=1": {
+        "source": "https://stackoverflow.com"
+    },
+    "https://i.stack.imgur.com/BLuMp.jpg?s=32&g=1": {
+        "source": "https://stackoverflow.com"
+    },
+    "https://i.stack.imgur.com/IbQd0.jpg?s=32&g=1": {
+        "source": "https://stackoverflow.com"
+    },
+    "https://www.gravatar.com/avatar/ce41bacb6009bbe8d8e9d3c7dff412b0?s=32&d=identicon&r=PG&f=1": {
+        "source": "https://stackoverflow.com"
+    },
+    "https://i.stack.imgur.com/HJIhd.jpg?s=32&g=1": {
+        "source": "https://stackoverflow.com"
+    },
+    "https://repl.it/public/images/light-logo.svg": {
+        "source": "https://repl.it"
+    },
+    "https://repl.it/public/images/ide.png": {
+        "source": "https://repl.it"
+    },
+    "http://chadfowler.com/images/chad.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/img/hero1.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/img/hero2.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/img/hero3.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/img/hero4.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/img/hero5.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/img/speaker-matz.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/img/speaker-jessica.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/img/speaker-karen.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/img/speaker-sandi.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Upstart-Ruby-Conference-Web-Ads-728x90.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Heroku_RubyConf_2018_Banner_Ad.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/DD-ruby-banner-2x.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Cedarcode_-_RubyConf_Banner.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/sentry-rubyconf-728x90.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Shopify_BA.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/light_blue_tagline_2.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Fullscript-_-Enginnering-Healthcare.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/728x90_banner.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Banner_Ad_red__3_.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Bold_Penguin_BA_v2.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/CoverMyMeds_-_Banner.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/TrueCar_Banner.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/fleetio-digital-banner-_2x.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/logo-animation-rubyconf.gif": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/img/tennessee.svg": {
+        "source": "https://w3bits.com"
+    },
+    "http://rubyconf.org/assets/icon-quote-205f6283b33a36d74d6c0d69c97ebea1f5c1dda926a8fc1911289791ba94258a.svg": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/fastly_logo-01__1_.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/heroku100319.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/shopify.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/dd_logo_transparentbg-400x400__1_.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/sentry_logo.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Tidelift.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Nexmo_VonageAPI_vert_-_smaller.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Braintree-footer-grey-bkgd_-_smaller.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Stitch_Fix_logo_500x125_big_-_white_bkgd.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Bold_Penguin.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/CoverMyMeds_-_smaller.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/HOVER-FULL-LOGO-CMYK.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/cedarcode1003.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Fullscript__1__-_smaller.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/TrueCar__1__-_smaller.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Upstart_-_smaller.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://railsconf-test.s3.amazonaws.com/uploads/Fleetio_-_Smaller.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/assets/railsconfcrowd-2215e5d8929ed95525822e0b6a9a28cb1272896b9fe20e168d1addbe235f7601.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3cbd476f141693ca2fdb94f833109871049c8c3e/shopify_rubyconf_728x90.gif": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/assets/dhh-88f56714bee35f94cc51d6946667ee155bc67371b9eb938ec35ce7ee7120e813.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/assets/eileen-c24a88ff3933a32f22d60f96b82e805db4fba24add916600d9f0279d260beac4.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/assets/aaron-d52bbc0370eb46daea54fd7191f91f1b2095380ee2f1301749f3410aeedddd55.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/assets/oregon-outline-08dbbb15e1384532d7615eaa5fe16bdb5e8261ff34a9f4681c0a7001371871cb.svg": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--24a5ea04514699b671c77ceec2e0713ffb64e59b/kolide-horizontal-brand@4x.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBIZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--87cf6ed894a638d86d896f67e7db7fa057943d9d/mode-logo-bitmap%20(1).png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1f56942c4a7f842ae8a24f33f746c79d68984297/InCloudCounsel.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f631abca4310aafdab0d2926e7966b38eca35a24/dox-logotype-black-rgb%20(1)%20(1).png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e699729251427eb9fd819dd1af3b99a20015aeb4/Launch%20Darkly%20-%20smaller.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--653cc2d7e20d3b2fc4e1afe33184374593786f21/Wordmark%20Large.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--98c838d0e7c1dd529e92452f334bffb342542c6f/jetbrains%20(1).png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc8a3919b289f296d6408c49ccd0ae80ee496b8b/Cedarcode%20-%20smaller.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--32499bd17819fbbb90131cfebcddcd16ca2eea60/split-logo-rgb.png": {
+        "source": "https://w3bits.com"
+    },
+    "http://railsconf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--70fb93f566c89a0e620d4313ae57cdcbc609a928/Zillow%20-%20Footer%20-%20Smaller.jpeg": {
+        "source": "https://w3bits.com"
+    },
+    "https://s.yimg.com/aah/paulgraham/img-18.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://sep.yimg.com/ca/Img/trans_1x1.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://sep.yimg.com/ca/I/paulgraham_2271_3232": {
+        "source": "https://w3bits.com"
+    },
+    "https://sep.yimg.com/ca/I/paulgraham_2272_1072": {
+        "source": "https://w3bits.com"
+    },
+    "https://sep.yimg.com/ca/I/paulgraham_2272_1423": {
+        "source": "https://w3bits.com"
+    },
+    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K": {
+        "source": "https://w3bits.com"
+    },
+    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVQAAABaCAMAAADQMV5DAAAC3FBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+GTFYVAAAA9HRSTlMAG7O/KQR48v/+hA5W2+piObG8RBSU/fehIG7stSWl9nkIStbYU0XN4FUvrHoDcOi3OAuLmheOmRVm4rtBNbDucsnfXlDUJpuGB3vtM3+mHBKMEF3FSDzmaMLpWN7PRh2XkAaAo3X4riuiBctS3WAxtvFx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": {
+        "source": "https://w3bits.com"
+    },
+    "https://repl.it/public/images/logo-small.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.githubassets.com/images/search-key-slash.svg": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/rb28z2/progress-bot": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.githubassets.com/images/spinners/octocat-spinner-32.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/a6b72548fbfc8e68d398a62a72b02c487735c5e6/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f35323435373337323637643038333166626331642f6d61696e7461696e6162696c697479": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/c0af075e5ac6deb2d6652497cebed0fbd6389e47/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f726232387a322f70726f67726573732d626f74": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/830f9f93e776f7ca0d91d4d4736ffbcd5f95bfa3/687474703a2f2f692e696d6775722e636f6d2f6e4b576461474c2e676966": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/replit/polygott": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars1.githubusercontent.com/u/335234?s=60&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/replit/upm": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/406ae6d98ce39ced40dad0dc0b5aa60d7a60723c/68747470733a2f2f616d617361642e6d652f7075626c69632f696d616765732f6c6f6e672e706e67": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/62587be94242563e9acf42cb2a75d1c728780c1f/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f7265706c69742f75706d3f7374617475732e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/kognise/water.css": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars2.githubusercontent.com/u/42556441?s=60&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/f29cece8e2bfa7f74740725a5e6734263e7ec516/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f6e2d7265646469742d6f72616e67652e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/331cde78a9914c8bf9ecdb928a8e32e81e4391ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f6e2d70726f6475637425323068756e742d7265642e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/c02f24242d7af76a35a55427b7957d8e0a04227e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6b6f676e6973652f77617465722e6373732e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/kognise/water.css/raw/master/logo.svg?sanitize=true": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/f04054df94389f1006f4acb7b0b2955edcae12f4/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6b6f676e6973652f77617465722e637373": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/UpGado/ascii_racer": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars0.githubusercontent.com/u/2080509?s=60&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/5dc7591b1ad3f8e1eea087efd9b126929eeb6a96/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f617363696972616365723f636f6c6f723d73756363657373266c6162656c3d707970692532307061636b616765": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/b848522c40be50487f291512f0ac0c4e3bd86a0a/68747470733a2f2f7472617669732d63692e636f6d2f55704761646f2f61736369695f72616365722e7376673f6272616e63683d6d6173746572": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/63bf270cd8f5d409ab81fdc6b31cb5a3d6abbc77/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f55704761646f2f61736369695f7261636572": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/8a46accd2bb06c57a38ec4e528060cb1d00d8456/68747470733a2f2f706570792e746563682f62616467652f61736369697261636572": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/311762166ef25238116d3cadd22fcb6091edab98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d626c75652e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/8bb328d0c05398e3528d60a0dc34d6ff96a910c4/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f55704761646f2f61736369695f7261636572": {
+        "source": "https://w3bits.com"
+    },
+    "https://raw.githubusercontent.com/UpGado/ascii_racer/master/docs/gameplay.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/frostming/legit": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars1.githubusercontent.com/u/16336606?s=60&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/8e65efff0558388d5cc185ddeb8fb7b6d5dced40/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f6c656769742e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/95aa41c6079b6ef8725d4c2f454b48cdd9c56987/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f66726f73746d696e672f6c656769742f6d61737465722e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/01e3646be3354e95027066715ef17279b27384a3/68747470733a2f2f696d672e736869656c64732e696f2f636f766572616c6c732f6769746875622f66726f73746d696e672f6c656769742e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/23e6f6d7f6f9776adf37d93c1782f252365579f9/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f66726f73746d696e672f6c65676974": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/tristangoossens/snake-go": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars1.githubusercontent.com/u/45670281?s=60&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://camo.githubusercontent.com/3de3bba30c9355c0d919804e7b31e6b504af74e2/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f6e617468616e792f6c6f6f7065723f7374617475732e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/21405af81bc81566a13dd4d7d47a04f7c702bb92/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f7472697374616e676f6f7373656e732f736e616b652d676f": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/22c576feb1b8a0bc745459a93dc8c3db1256e0b7/68747470733a2f2f7472617669732d63692e636f6d2f7472697374616e676f6f7373656e732f736e616b652d676f2e7376673f6272616e63683d6d6173746572": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/tristangoossens/snake-go/raw/master/images/snake-logo.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/ef38205e2d26a8848b274b02a6717fb0abc1fcc4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f7472697374616e676f6f7373656e733f7374796c653d736f6369616c": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/e10e5c7533665cecfd492ba04d811b0584fc6f7d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7472697374616e676f6f7373656e732f736e616b652d676f3f7374796c653d736f6369616c": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/b197e0b2f0f44b0e164bd82fb9a040057a229e82/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f7472697374616e676f6f7373656e732f736e616b652d676f": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/tristangoossens/snake-go/raw/master/images/itch-badge.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/tristangoossens/snake-go/raw/master/images/game-v2.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/tristangoossens/snake-go/raw/master/images/gameoptions.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/tristangoossens/snake-go/raw/master/images/savehighscore.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/replit/crosis": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars2.githubusercontent.com/u/1994028?s=60&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://camo.githubusercontent.com/74ea0f224fc01f28de104968d17f7af75d9272c9/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f7265706c69742f63726f736973": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/unknownblueguy6/MineSweeper": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/6d8b50a346f7eff22feb3ee212740b930b8fbaab/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f756e6b6e6f776e626c7565677579362f4d696e6553776565706572": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/unknownblueguy6/MineSweeper/raw/master/assets/demo.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/jarun/ddgr": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars2.githubusercontent.com/u/5959286?s=60&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/633e4c56c77817262ba964c4a391f7739809897d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f6a6172756e2f646467722e7376673f6d61784167653d363030": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/136f10fb0803dc790d6a822a2943cf3d876d13fe/68747470733a2f2f7265706f6c6f67792e6f72672f62616467652f74696e792d7265706f732f646467722e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/6272f30385bac31d91ca439dd56be2b3de18302a/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f646467722e7376673f6d61784167653d363030": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/aa2b59ca16808b1c3bcdd69da2c6b6beceb94383/68747470733a2f2f696d672e736869656c64732e696f2f636972636c6563692f70726f6a6563742f6769746875622f6a6172756e2f646467722e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/45f221b30d361f86537eb09f8ea94795418f5d46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707269766163792de29c932d6372696d736f6e": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/884a9380a11ef992730154c1253cb82267752898/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c76332d79656c6c6f772e7376673f6d61784167653d32353932303030": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/bcda58fc24b179f9fcda6e7987e363d1e483a98e/68747470733a2f2f61736369696e656d612e6f72672f612f3231323139382e706e67": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/091a000ee8ff6640d0e39066767e64382617d7be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d646f6e6174652d3165623066632e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/38e9736eb0eb8bf097b173a546e2c8f041db7d54/68747470733a2f2f7265706f6c6f67792e6f72672f62616467652f766572746963616c2d616c6c7265706f732f646467722e737667": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/itsapi/pycraft": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars2.githubusercontent.com/u/923336?s=60&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/b6794e4f95dbe16d1cc59ca2d36d55334b45e5cb/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6974736170692f70796372616674": {
+        "source": "https://w3bits.com"
+    },
+    "https://camo.githubusercontent.com/0203889a5f47b0f844b335ca6eea4a0e0d2b069f/68747470733a2f2f63646e2e6476627269732e636f6d2f707963726166742d322e676966": {
+        "source": "https://w3bits.com"
+    },
+    "https://www.facebook.com/tr?id=1621132604871265&ev=PageView&noscript=1": {
+        "source": "https://bing.com"
+    },
+    "https://px.ads.linkedin.com/collect/?pid=19337&fmt=gif": {
+        "source": "https://bing.com"
+    },
+    "https://cdn.sstatic.net/Img/product/videos/6XtwS2Ju76Y.jpg?v=7c651bfc54e6": {
+        "source": "https://bing.com"
+    },
+    "https://cdn.sstatic.net/Img/product/audience/illo-1-sp01.svg?v=7cdf487abb35": {
+        "source": "https://bing.com"
+    },
+    "https://cdn.sstatic.net/Img/product/audience/illo-1-sp02.svg?v=36c0d3128dcb": {
+        "source": "https://bing.com"
+    },
+    "https://cdn.sstatic.net/Img/product/audience/illo-1-sp03.svg?v=47206180d753": {
+        "source": "https://bing.com"
+    },
+    "https://cdn.sstatic.net/Img/product/audience/illo-1-m1.png?v=2ecf8600abaa": {
+        "source": "https://bing.com"
+    },
+    "https://cdn.sstatic.net/Img/product/audience/illo-1-p01.png?v=ad0352f0f4b0": {
+        "source": "https://bing.com"
+    },
+    "https://clojure.org/images/clojure-logo-120b.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://clojure.org/images/clojuretv.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://repl.it/public/images/languages/python.svg": {
+        "source": "https://w3bits.com"
+    },
+    "https://repl.it/public/images/languages/python_turtle.svg": {
+        "source": "https://w3bits.com"
+    },
+    "https://repl.it/public/images/languages/c.svg": {
+        "source": "https://w3bits.com"
+    },
+    "https://repl.it/public/images/blog/scheduled_assignment.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://i.imgur.com/CXaU75Z.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://thumbs.gfycat.com/LoneReflectingBass-size_restricted.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://www.makeschool.com/assets/main/logos/ms-logo-0e87418edac9b230ae858b496ea7a1c11b478adb3a4f9b155868d1e356267ea8.svg": {
+        "source": "https://w3bits.com"
+    },
+    "https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-2d722dfb3c7b7739244c107e60d181c14856a3366de6f765969aa6a5db3009ae.svg": {
+        "source": "https://w3bits.com"
+    },
+    "https://www.makeschool.com/assets/main/icons/downarrow-92364fe47fc4715bcaef56b43c089cd8724c35e3973dd1ef89786a5447a8f2c4.svg": {
+        "source": "https://w3bits.com"
+    },
+    "https://www.makeschool.com/assets/main/icons/downarrow-dark-360f3c87efb0c1c51d62e40baa103f996198334d7a5774aa3fcff9f995bc0787.svg": {
+        "source": "https://w3bits.com"
+    },
+    "https://res.cloudinary.com/makeschool/image/upload/v1/Icons/X.svg": {
+        "source": "https://w3bits.com"
+    },
+    "data:image/png;base64,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": {
+        "source": "https://bing.com"
+    },
+    "https://opensource.microsoft.com/img/microsoft.png": {
+        "source": "https://bing.com"
+    },
+    "https://www.privacyshield.gov/resource/1536627980000/logos/logos/privacy_shield.png": {
+        "source": "https://bing.com"
+    },
+    "https://www.privacyshield.gov/resource/1536627980000/logos/logos/ITA-Emblem.png": {
+        "source": "https://bing.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2020/02/Transform_240x40Red.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2017/05/android_kotlin_logos.jpg?fit=578%2C289&strip=all": {
+        "source": "https://w3bits.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2017/05/screen-shot-2017-05-17-at-11-33-39-am.png?resize=1024%2C517&strip=all": {
+        "source": "https://w3bits.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2020/02/Transform_600x200.png?strip=all": {
+        "source": "https://w3bits.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2017/05/google-io-2017-banner2.jpg?w=600&strip=all": {
+        "source": "https://w3bits.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2019/06/virtualdesktopquest-e1560344767319.jpg?resize=350%2C175&strip=all": {
+        "source": "https://w3bits.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2020/02/GDC-cancelled.jpg?resize=350%2C175&strip=all": {
+        "source": "https://w3bits.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2015/10/Cortana-Ilustrasi-e1582922783568.png?resize=350%2C175&strip=all": {
+        "source": "https://bing.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2019/03/michael-kratsios-venturebeat-blueprint-mar-2019.jpg?resize=350%2C175&strip=all": {
+        "source": "https://bing.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2017/12/ajit_pai_fcc.jpg?resize=350%2C175&strip=all": {
+        "source": "https://w3bits.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2017/06/salesforce-tower-indianapolis-e1571779672792.jpg?resize=350%2C175&strip=all": {
+        "source": "https://w3bits.com"
+    },
+    "https://venturebeat.com/wp-content/uploads/2018/02/mwc-ajitpai.jpg?resize=350%2C175&strip=all": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/65da46db33ecb8d7fcacf3193512b06d43d6aaf7": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/6510de4bc920dee7f3a54c50ebd7aaedde20cef6": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/b3507f944ee1ff044cb81d5cdda32bc904b21b01": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/40c153482245c3cdc659ad4c65d9a39c4c455e62": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/f7dc76a1b47abc4506c48a0e9ec0a1d8a19d8b9d": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/89ed6dbee4552b82466b371398bf02a21f41df11": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/b2b5e7660d7227ff8b1f8e024475df8173afa51f": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/5a8235f00e47c9e5643f36232568a4a774c73d9b": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/6c41a7dc4803e4b2c3032a6fd08d9927914d1a76": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/3ed62f51544e9a3bec2e33324ed7d9008b6cfbe9": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/b3b24d80a2443a5f0e058431f52c0d1353396939": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/eea08e724dffd26df4d34d8d69108f010cd1335a": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/ad976ef3d67345fdfe00fc0222d7e044683e2967": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/d6448a5a8e79c780079e96d91589ccbe92e20a90": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/020eccd7c610c5ca2740dc549af807d50eb0bbe3": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/71594fd2189d054e356c35de12debdf7932a546d": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/56e983b6b234595a6b3b420f774a27401ce396c9": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/10c886e541e92257a3830f771b7aa6dde854753b": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/ace1a138819e323d1b4836f2ffb90adb9233125e": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/f50181f6914d84d4e614dfbcf2291be2be72b5dc": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/7792dd3fe466a0718042375f624547fa75512711": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/46b5bc5ab46552672b8160c6d8eeac1b7f6d43e0": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/e5f5149dad9b24e048686eee9a716130926eefe6": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/21dc1c761e11dc827bdc58b79d47c434943d491e": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/81a6f5e88a2369d3ba13499043dca00151b118da": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/84e8012d98c7e4b970ec2be01d6b9b148b7d4fa4": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/4ad78b32ad634c6f07799fc4e4effa14ce473739": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/a9acd37658a221df3a5267ee2a809de7cbcd1533": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/6a37a2e4e6537e349fa8760cf5a6aeeec8979769": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/20592d32f1e928fe1463abc607a676e5a4abaed1": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/efd5f60320e2d1dd87f9feaceafb40235f9a7eeb": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/0e25fc97e7bf5afa669559f5da31dbcedb7279df": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/0cca2480357259e716b5cdea0661f59f2cb87280": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/3afdf1e35ea13f59586f18560a18afe9fc9fac6e": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/42799a9dbcc6837f3271e6a1a3336090812470f9": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/7890beb34d45aa58f7ed77a0b88a8d0a7927f618": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/2df5a4e4f0762b8a59a3046a789cfee78801a770": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/f5fcbefe8bf71386d4382f7d830ff4e4878971ee": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/047b4be24ef22146ac0862c981fe65b3a5aac285": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/991d92d47c50a9d0e23470864edb93c8979a181a": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/e6fe58fe689548dfc33e6c8d77a22ed825e865e0": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/7c796d4ed5737b1e55caefdf0c1eca2db6a0628c": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/152db50d537b1034405dcfad8dc154d96d056034": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/3368c24bae6e28c819db2078ae97c38bd5cba407": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/039eecfa623f67a3370b389f634fdf817de6564f": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/f829ba4b2c0a65e445d2815bc3436fe7ecfb8306": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/0182a240909b1a033e2318f2ab9c6d8db834446f": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/a7eb9f5451bb634daa5943a5adba191fd2e9de88": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/dd0367d77a5863a4fd022cad517e39b0d8464e46": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/dced7a09da31c961abf4a73c6034ca056f9fae7f": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/79bd22bcf7d18594eb2f94ca720112cec4aecaac": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/bc927b19f46d005b4720db7a0f96cd5b6f1a0d9b": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/fef022964fb77e91aaf4a09dea87c8e224022832": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/a1cfee6ea47034ecb0695991a300eeadf11b4cd2": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/f1a8a057b5c3fbda21a43e1c5bb93ad3fb3de3dc": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/cb6f51c9b70bd5a1a8050d578e39846816bc7b9b": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/74445ae708fac89c8b9f1d7793c9d48a3c3df69d": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/44a6cd998fb0c83c4d93aa087c8be93e99c4eb17": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/2b4a07994a8d0546f7d1a69ef8a03db511aeca7d": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/f409d9018c01dfb165caf3cd3e06ca761b867057": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/e36de5dff3a40e4bcd904074607097a76ad64dc2": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/ee3c6f5becbb3b6fa40eb163294eeebd10120478": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/2b9e5460e5a8ae6d4f350794945ee848b8c07026": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/320e041dfdae1a77e6c280a0961792c947740b44": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/862e0779156abb9b48be9706d750ac27eecab7c2": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/02c70c733a7691e7e637d911a582e9a2bab9cdb1": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/4c5c34250859b6f6d2a77b4e8a2ceaa90638076d": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/4e93fb5902317bb78fb54131974e70c182bc2b7a": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/1daab843254cfcb23a643070cf93f3badc4fbbbd": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/f6aab958c92495486bda2d88a824d7e7040579d5": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/5d26df1fff8ace46ca2ac34baf2155a1f10f684e": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/6d2cc1c230e2ed5818f994ad6c7fba569d60c6c6": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/46aeb661b5f7945c945c8ec1f01fd758d24ffbbb": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/2cb11bb6e0bffa0a7094c3240f277cec70435dd3": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/42e1e8b6f924a08a896668c90457a01567afd9bd": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/346fb41057286b6e76e5faf1a70944b48d70faeb": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/b43d0ea3c9c025af1be9128e62a18fa74bedda2a": {
+        "source": "https://w3bits.com"
+    },
+    "https://wikimedia.org/api/rest_v1/media/math/render/svg/2b76fce82a62ed5461908f0dc8f037de4e3686b0": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://en.wikipedia.org/static/images/wikimedia-button.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Remi_turtlegrafik.png/220px-Remi_turtlegrafik.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/IBM_LCSI_Logo_Welcome_Screen.png/220px-IBM_LCSI_Logo_Welcome_Screen.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/IBM_LCSI_Logo_Circles.png/220px-IBM_LCSI_Logo_Circles.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/next/wordmark-b2322266c45ea75318d0ea4481ab3c0aaa587af433ead331ba0ec402ad79fde9.svg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-unity-7757d459e3782e03079eecf7f7a5350e9b94620d49db0f980e53948cb4524d47.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-namecom-1c4ec570a1883adc1cd89d5ec03ae3b56937d828f74725b88a3df9d8710bfdad.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-namecheap-7ecd22457a4ee5617490ba4cc16b1c15ee97c7ff87d5c47cea0352f7b87ab2b8.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-aws-educate-46363e7dc038b3e8f8ca342564870868e5c95e2790b54033ced3b8ab8ddfd96e.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-polypane-8b91f190af98d332d4d90edce7fd9eaccd25c682c0d5c63799f457e3f98c9277.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-microsoft-2ae66d4033f4624cc4d1a9ebebf547a5a30fed4280145e22233d2d5433e43a76.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-digitalocean-3d328c1d6619d314d47aab1259c1235b1339c343e12df62a688076bf6ceac866.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-jetbrains-f8afd8b5c788367a5a6cfb33a70a8741be61e0c8b810c374a5d505f1466751a2.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-mongodb-378bef5d228e7d10085d96e1f78fcddac24f054c48c7316d72ae75a96120d5f9.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-xojo-0e993ca1f1466e0de78883bc5f68d6d2376250ef8f5a025dd03ea6b003229c12.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-bootstrapstudio-3c452629f5506e9db0fc76bc310be352c105103c6ae8b515de5b11a9bd487adf.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-educative-0ff5bf24988bb845b0e2aa256b2065e5fd1339eb2e566de483a9e0cbc916e96e.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-canva-4695343515087af903e1c706818a0e580a84d5648d7fdec4cab6e60f84bc4c4c.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-dashlane-e80074d029617d44a582a025920ee082b73fc94e5ae6295f00f011964fd90832.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-gitkraken-c292786ac0b639afcda0a4d8531869e87cde5e40e255fe8684b0a19add839edd.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-kodika-a4a27ba95c73a423eec3f7d7801849d8a16542a0209858a226212ef0faf4ecff.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-pageclip-12d56d44afa7367feefe5f93ed94e06ae0b54c72306496bb9e4255b949f1c461.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-frontendmasters-46f9f8aa9546a7e8dc3e0edae3d9dbb1df85261d8a4aa0a7dbe4492137e30006.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-tech-b0fa96cc0ae1c9b224a141c9592835e746731caa1bfba0c30893e90678029919.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-experts-a7bfa837f107988997fe4bd996b7f83ce07c5abe9f05d089e54057947fcf3469.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-heroku-78650800c7958dc2289f9d7f332e196eb8dfd948d18b5e5578196f4a960fe981.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-tower-59b3aa17bd8519e8d035d161b618d721fa1c915601b3b0339565d7f4d5876c74.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-jaamly-dd21a481e2eb2b20eb4985bcf0e9f38f2fee5fd87dbe68b48c80c6c5e5ea195a.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-termius-ea90072ebab136b1cc3763086c0986844bdd57c57857129e25ed54f448a5ae41.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-adafruit-2ec09c848ff58995340637f80d0e6ad347b09d3b0b5aa3da0a742b7d50819049.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-mnx-b78c22c94f625cf833eb8c2ed41f4417d8a9a48fda96d7c084aca6707ccb56d0.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-datacamp-3a61b3327b4215fb481111080646522f18ec40c48da801842d883e3847354617.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-iconscout-ce4182a4c2a361a65498135effa16ac697d2f04805e73ced7c2662788dcbf390.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-testmail-b5895796ebb41b794e3d8d0fcd50db88d9f874446f135dd8febafe69c16501fa.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-onemonth-4793438ffc3971afcd2f20923c5ae170fde2c6b3e44476e240d33072e111ca15.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-gitkraken-globoards-2e98e9030df9593feb5e29ea2d7bbbbfa23c62029a7fee8b3f969767ed150c78.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-hazeover-f4e5bf5d97749160ff3a44d3a56d05bcf70c8288b602ab031541e556936dcd2d.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-yakindu-c1ab94ebc84a0be54833817568278048cedd6cf11a3e5b235231eff527399921.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-sider-634148bc1348550d5037b723ce5a7dbaf2d40dc87571fd2e0d97675b0516538a.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-dailybot-7a097b14b61e6be0d0e586ff3948ce9433d362a011a14a3c7232f56620e61a69.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-educationhost-0a662bf6c825604f92bbeedb4d1f47aed6d32d02248327b81f2fa5c2907d4280.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-interviewcake-cc858b1c9c298d1fb459312b00c7bdf5f97ed12c2402f247a7e9ffe4ac579473.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-nexttech-275def1777a4f276955a9bc7cea96b186e12b98dd4e8908e8d3015ec215be318.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-popsql-267b34f70ea30ebc5c03cafea1314a35b096fba965870b7def75a63234dfc775.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-replit-421a56b9b68f899d1e1a0bda608c5af9f3b3d48589140d791fd774809bc1d914.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-atom-b2600fd58b4ab395d398afb5af008d2e8596282321ba22f0becbf34383e545dc.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-github-fe55a081ff239877f791f5882f9c3cddc371653c88d9b06f504ea10f453996ed.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-pomodone-e1b379acd155a955f32c2ccf9f9eea88d65b4d7e67552522e9de2ee16e1fe945.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-raygun-eb2645befc72e9d93b31f5f0bf28ebc8da1251229af8b90dacb317e76ac99367.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-freshpaint-94afc9a6f0ecfc4245223e3cdcd28cf0296bb3a32d4f43da11d0eee3fe23874c.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-sqlgate-f82fc22b71d9bb612a942c06340801c2412b56f2a692d2112ad7f5ecdbe9cd2d.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-icons8-5076338eaef2812dfe4862c9f0db77c583f2c27b6a1c75ff051c69f6a18bf2d9.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-deepsource-715d9df83f5fc58b244ee741d238e65960bb2bf3d61b206464cf71f0e8b56aaf.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-customerly-697a2e08cf2dd49ebc7bc428d54785feca4d80d6e9903da23231fd7dd9149362.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-imgbot-d00715ac3afa892734f37311d54dfeaafd5edd52604916cf5adc11fa47d0489b.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-blockchair-514559da94330577a646e78ca35c95fd48d4d9d9ed297ca8553cfb0bc8251510.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-gorails-3a4611966723d05824f5e966e608c3805fa285a05560b9fc2826ccbcf3a25f0e.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-themeisle-7f83f8813152327174e4339c686e405ebc393acd9ecbe32714e3038c83a7d640.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-sendgrid-f8ea23ae1e4ad86210bc42d109d97a4e58466c9fbf26cb49a2089e359270a7af.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-ghdesktop-40ea908c1b55fd3e6356874e76bca24d5d0877001f4fdff29f34c02eacc35a9e.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-deepscan-8697f86df0b019b7a4652625701998e9ca2b72457d6e338febb663c4d528853e.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-datree-a4f59fc077094bb6953499e16459155966f61449ae22fd3652fda474c5aff0a7.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-mailgun-bd28e4043ebda5d29f1e37851fbc83528b35c23c8da281c16bea8c706ab96266.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-typeform-55cc067a7c4d306a609e3c9fa5873a76d5a1d7e756f8ea8b61190d66a5c2dbf2.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-restyled-e81aa2a2149e53b16494e10ac4fa3738f9f24bbee01d0b1e0274a9f3f64c2daf.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-netwise-3115149bdeae9b3adfe7c97f0a6b0fe92333b5c767d322071f6d9f1843141140.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-scrapinghub-ad6034dd430f97482ed6280d06670ddeaefe1df7be8c1b83584424bb45dcf094.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-workingcopy-23a688762e1b60042dfc007c15fb0899857f67497e9c5faa031d28a4b878f354.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-travis-e2f839c66f8d7138d47843053872935cee7c534f3750421f2c19e483fb75f040.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-poeditor-32ecccedfae37c005244943927ac49dec7d9e96658b0c8db889761b92c0fc44a.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-thinkful-5729d69105c1b552a9750da30157674bcc5f8513c42cb400ae3bf76c4f246cbc.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-simpleanalytics-c8f4bfbc16a694c67685b2f01f9b614475fdb85222644d6990924284a3a56286.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-flatiron-b010e6f60ebb71734f9b11a3058cfb7480ecb3d262fbc48fe63b7dc8e44a69cd.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-datadog-cf0a919b6a0d96b858ba497851bc8ceb4b5997e668054818700dc44a517c057d.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-lambdatest-e8186523e6cbf6c94ca2d237a8cdc241be45717a74d148e26b74d3b1d9630291.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-gitpod-1eb786c3c9b8714dee45d5cd66f619b1d70f617161bbb38b0c4c845ab93196ec.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-sofy-6b74fbd9b1f8416a37023ca82e3c9512af65f01fd56f133afe9b221284b0eb95.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-usetogether-c5c4ddcf9f75843f7f0200f5438858b3f3721050bd64405bbb954134a7ca7f2a.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-browserstack-3eab3594be4637f085deb6e8c9606635102a7f5f1f6eb678f7fb73e7e1c941f2.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-covalence-3cc912bc85f6c094dd6593e162aed6e3b590c57bfe7bfd6981029f33bf7acd00.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-codescene-4dc2abaa79ec75375cd206cac21eb3aa5f51a9fa8e5bb82f5266fd4b13438109.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-eversql-78605a817b187c019a7945d7f04bad8d8d580cf6a8d013dcc3f7a4a4e21e3b87.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-stripe-237d6b07f39b984f738aa58a92c9cb3c4a46856088cd344292db6172fd2ca74f.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-codecov-ab4d326cea5adef2c00f5e6e588ecc7f2b60a89df229a18766ee2f5dd4cf0e3c.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-sentry-d34ca8315062bbf7780dd021a35cee6bdf69873ff624454e6a6a5f7d4ec5c7ea.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-cryptolens-e4b8d2d8a685beb9aa43a8fe750d21aabe3770f567d7a8b02d321d118f7ecfcc.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-kaltura-4c07dd8b1d10f46047d19ab83bc72c2bd3b780efc7b4f0d843ad72433176830c.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-accesslint-dbf3ba0f74c23c167a1acbe437a3c1bc032d2a069111ded7410f8d6069776607.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-blackfire-6aa560f98122649cfadc566e706cb9f8221d6cc4fd0adc67ef61fc703ed91505.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-lingohub-f1505907e8dcb4b3ba439139a18a6da7bbcf03b825048f7a602e3e3ff9cd18ec.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-wisej-e770fb3c40c8a75442769ee5b0b0c0b141ff761040a3e5ead047a52ae84e1a90.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-vaadin-2922be7f0ac602b642d31e425173f2315a84925d4729f4f8160af775cda8cc7c.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-baremetrics-a0f78e9a8ce5e677cec024c73aa4a26c9ea55a86e3cd1ee2ff67eeef8bb95542.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-honeybadger-287f631fbf925a4dd7a57300fa5d6adce21306d2107a308fb3b5d076805c0a93.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-algolia-93727ac746868a30573a7d099a3539c097a436262c7f34dbf3bbc952cc08910a.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-cartodb-5e3e0e113168e937bbb78dbd6d163a118e44d540a142ce936e5b50169105b632.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-astra-e5218c3ccb868363497462d93468b2b961fb572891878ed2a2dfc888a920c131.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-coveralls-599acc4277446bb91864468efc4d558643add96139e0640ca94e0f12a17bc878.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-bettercodehub-8c6a3ca6b12e3c9f1c4719a92005572d9b9006cde83784b48ad93f2ea0fe5771.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-symfonycasts-275eeaf13b17d2b12f32480aeba3ffb0f5040e81b3b983d72931e1c005d53307.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-netlicensing-1f86b8d843c85b243b2bb7ce12525de8dc68afd64f29d5bfdd84f21dd6bada56.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-configcat-f41be3725b8f3e444154173f701114eb2e47fc939e69b0ffa7dcfdabf31babb5.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-pushbots-002f1a79864959f98e326500b90f67b9902350ac07a8bba76b1f11426d175aba.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-storyscript-24b735ad220983b771275c03b47167e0b63e7a9b78f5b5246f2286fe4c1382af.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-weglot-b5d3a66764414ca48711d3c001b013c927c3db86fc1d88c06dbed738f5860837.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-sqlsmash-3eee517a79a627a9bf48a776d388e190ccd229875eb8b7df29d99e9ed9f2ed1c.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-logdna-e947b61a0c3860d8ec247c58b6af628a4883a7427480e8c9fa52860370290221.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-transloadit-7f6fb5b3875a528ddd6e05bf28a8f3a0815f2070d415e4797178a6b46afb38a4.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-appfigures-6b1965fb78304620fd5efbcc106accbd806e4654d702f0a26000cfff898918f8.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-crowdin-b7cc74faa08453950d8f5dc2f2929045f9990f24dd27e7e0631bbf55651d7f36.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-phrase-3111222a57c9b0baecf5f99cd478da43ec538126948a68288240c919361f9c94.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/pack/logo-transifex-ed22a1a1625990d51b166ba7586e2dee902c059599bb8eba08210075f6fddca1.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://education.github.com/assets/photos/hackathon-264568facbe54b449d1f6abe1b00422bd49cd3ab34700d22285273f40bd652d1.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://github.com/replit": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars2.githubusercontent.com/u/983194?s=200&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars0.githubusercontent.com/u/335234?s=96&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars0.githubusercontent.com/u/587518?s=96&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars2.githubusercontent.com/u/1428207?s=96&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars3.githubusercontent.com/u/1994028?s=96&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://avatars2.githubusercontent.com/u/51137437?s=96&v=4": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Turtle-animation.gif/220px-Turtle-animation.gif": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Turtle_Graphics_Spiral.svg/220px-Turtle_Graphics_Spiral.svg.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Circle_pattern.png/220px-Circle_pattern.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Recursive_Fractal_Tree_-_Turtle_Mode_on_Go_Play_Space.png/220px-Recursive_Fractal_Tree_-_Turtle_Mode_on_Go_Play_Space.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Spheres-turtle.png/220px-Spheres-turtle.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Square_pattern.png/220px-Square_pattern.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://www.gravatar.com/avatar/7723b1d497b0d9348c19f16e7f81b371?s=400": {
+        "source": "https://bing.com"
+    },
+    "https://github.com/turbio": {
+        "source": "https://bing.com"
+    },
+    "https://avatars2.githubusercontent.com/u/1428207?s=88&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://avatars3.githubusercontent.com/u/1428207?s=460&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://avatars3.githubusercontent.com/u/983194?s=60&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://avatars1.githubusercontent.com/u/2111171?s=60&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://avatars0.githubusercontent.com/u/2463634?s=60&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://avatars0.githubusercontent.com/u/40515173?s=60&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://github.githubassets.com/images/spinners/octocat-spinner-128.gif": {
+        "source": "https://bing.com"
+    },
+    "https://github.com/Zwork101": {
+        "source": "https://bing.com"
+    },
+    "https://avatars2.githubusercontent.com/u/25652654?s=88&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://avatars1.githubusercontent.com/u/25652654?s=460&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://avatars2.githubusercontent.com/u/47713465?s=60&v=4": {
+        "source": "https://bing.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Stachledraht_DDos_Attack.svg/220px-Stachledraht_DDos_Attack.svg.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/FBI_DDoS_domain_seized.png/220px-FBI_DDoS_domain_seized.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://w3bits.com/files/img/logo.png": {
+        "source": "https://w3bits.com"
+    },
+    "https://w3bits.com/wp-content/themes/w/assets/images/default-thumb.jpg": {
+        "source": "https://w3bits.com"
+    },
+    "https://google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png": {
+        "source": "https://google.com"
+    }
+}

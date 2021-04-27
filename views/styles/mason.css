@@ -1,0 +1,15 @@
+#mason { 
+	column-count: 4;
+	column-gap: 1em;
+	min-width: calc(100% - 2em);
+	padding: 1em;
+	padding-bottom: 0;
+}
+
+#mason img { 
+	display: inline-block;
+	margin: 0 0 1em;
+	width: 100%;
+	overflow: hidden;
+	
+}
